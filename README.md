@@ -61,4 +61,60 @@
 - 🌐 View website information and contact administration.  
 
 ### 📝 Registered Users
-- 🏨
+- 🏨 Book banquet halls and view booking status.  
+- 👤 Update profile and manage account settings.  
+
+---
+
+## 🛠️ Tech Stack
+- **Frontend:**  
+  - 🌍 HTML: Structure web pages using HTML5.  
+  - 💡 JavaScript: Enhance interactivity and dynamic behavior.  
+  - 📱 Bootstrap: Responsive and mobile-first design.  
+- **Backend:**  
+  - 🐘 PHP: Server-side scripting and database integration.  
+  - 💾 MySQL: Relational database for storing data.  
+- **Server Environment:**  
+  - 🌎 XAMPP: Local development environment with Apache and MariaDB.  
+
+---
+
+## 🔑 Key Concepts
+- **HTML:** Standard markup language for creating web pages.  
+- **PHP:** Server-side scripting for dynamic content and database management.  
+- **MySQL:** Open-source RDBMS for structured data.  
+- **JavaScript:** Client-side scripting for interactivity.  
+- **Bootstrap:** Responsive and visually appealing design.  
+- **XAMPP:** Cross-platform web server for local development.  
+
+---
+
+## 📦 Installation Steps
+1. **Install XAMPP** on your system.  
+2. Download the project files and move them to the **htdocs** directory.  
+3. Create a **MySQL database** using **phpMyAdmin** and import the provided SQL file.  
+4. Configure **database connection** in the PHP files.  
+5. Start **Apache** and **MySQL** from XAMPP control panel.  
+6. Access the system via **localhost/project-folder** in your browser.  
+
+---
+
+## 📢 Contributing
+- Contributions are welcome!  
+- Fork the repository, make changes, and submit a pull request.  
+
+---
+
+## 📝 License
+- This project is licensed under the **MIT License**.  
+
+---
+
+## 🙏 Acknowledgments
+- Thanks to **Apache Friends** for XAMPP.  
+- Thanks to **Bootstrap** for providing a responsive design framework.  
+- Special thanks to the **project team** for their hard work and dedication.  
+
+---
+
+**⭐ If you found this project helpful, please star the repository!**  
